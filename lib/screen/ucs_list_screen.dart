@@ -71,9 +71,11 @@ class _UCSListScreen extends State<UCSListScreen> {
 
           if (songTitle
                   .toLowerCase()
+                  .replaceAll(' ', '')
                   .contains(_searchString.text.toLowerCase()) ||
               songArtist
                   .toLowerCase()
+                  .replaceAll(' ', '')
                   .contains(_searchString.text.toLowerCase())) {
             return ExpansionTile(
               leading: ClipRRect(
