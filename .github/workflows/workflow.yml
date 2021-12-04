@@ -16,14 +16,14 @@ jobs:
           channel: 'dev'
       - run: flutter config --enable-web
       - run: flutter pub get
-      - run: flutter build web --release --web-renderer html
+      - run: flutter build web --release
         # 1. change path which exist lib/main.dart
         working-directory: ./example_macos
       - run: |
           # 2. change path to [existed lib/main.dart path]/build/web
           cd example_macos/build/web
           git init
-           # 3. change your email
+          # 3. change your email
           git config --global user.email jins4218@gmail.com
           # 4. change your name
           git config --global user.name HeeRyun, Jin(qwertycvb)
