@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'BangDream UCS Pack',
+      title: 'BanGDream! UCS Pack',
       theme: ThemeData(
         brightness: Brightness.light,
         appBarTheme: const AppBarTheme(

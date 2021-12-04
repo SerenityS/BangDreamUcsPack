@@ -157,7 +157,7 @@ class _UCSListScreen extends State<UCSListScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('BangDream UCS Pack'),
+        title: const Text('BanGDream! UCS Pack'),
       ),
       body: Column(
         children: [
