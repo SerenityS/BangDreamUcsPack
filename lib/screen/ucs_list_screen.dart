@@ -44,6 +44,10 @@ class _UCSListScreen extends State<UCSListScreen> {
       padding: const EdgeInsets.fromLTRB(10.0, 0.0, 10.0, 10.0),
       child: TextFormField(
         controller: _searchString,
+        decoration: const InputDecoration(
+          hintText: "검색",
+          suffixIcon: Icon(Icons.search),
+        ),
         onChanged: (text) {
           setState(
             () {
