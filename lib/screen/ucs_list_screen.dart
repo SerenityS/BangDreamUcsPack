@@ -68,6 +68,7 @@ class _UCSListScreen extends State<UCSListScreen> {
           var songArtist = songListData[index]['songArtist'];
           var songTitle = songListData[index]['songTitle'];
           var stepCharts = songListData[index]['stepChart'].keys.toList();
+          var chartOrder = songListData[index]['chartOrder'];
 
           if (songTitle
                   .toLowerCase()
@@ -99,24 +100,29 @@ class _UCSListScreen extends State<UCSListScreen> {
                   shrinkWrap: true,
                   itemCount: stepCharts.length,
                   itemBuilder: (BuildContext context, int i) {
-                    return Container(
-                      margin: const EdgeInsets.fromLTRB(10.0, 10.0, 10.0, 0.0),
-                      child: Column(
-                        children: [
-                          Image(
-                            image:
-                                AssetImage('assets/level/${stepCharts[i]}.png'),
-                            width: 40,
-                            height: 40,
-                            fit: BoxFit.cover,
-                          ),
-                          const SizedBox(height: 10),
-                          Text(
-                            "${songListData[index]['stepChart'][stepCharts[i]]}",
-                            style: const TextStyle(
-                                fontSize: 17, fontWeight: FontWeight.w600),
-                          ),
-                        ],
+                    return InkWell(
+                      onLongPress: () => launch(
+                          "https://player.qwertycvb.site/#scrollSpeed=4#SSC=$songTitle#Folder=/ssc/$file/#ChartNum=${chartOrder[i]}"),
+                      child: Container(
+                        margin:
+                            const EdgeInsets.fromLTRB(10.0, 10.0, 10.0, 0.0),
+                        child: Column(
+                          children: [
+                            Image(
+                              image: AssetImage(
+                                  'assets/level/${stepCharts[i]}.png'),
+                              width: 40,
+                              height: 40,
+                              fit: BoxFit.cover,
+                            ),
+                            const SizedBox(height: 10),
+                            Text(
+                              "${songListData[index]['stepChart'][stepCharts[i]]}",
+                              style: const TextStyle(
+                                  fontSize: 17, fontWeight: FontWeight.w600),
+                            ),
+                          ],
+                        ),
                       ),
                     );
                   },
