@@ -45,7 +45,7 @@ class _UCSListScreen extends State<UCSListScreen> {
       child: TextFormField(
         controller: _searchString,
         decoration: const InputDecoration(
-          hintText: "검색",
+          hintText: "Search",
           suffixIcon: Icon(Icons.search),
         ),
         onChanged: (text) {
