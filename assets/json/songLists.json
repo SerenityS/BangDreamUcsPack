@@ -5,7 +5,8 @@
         "songTitle": "[Full Song] Easy come, Easy go!",
         "stepChart": {
             "D25": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Afterglow - [Full Song] ROKI",
@@ -13,7 +14,8 @@
         "songTitle": "[Full Song] ROKI",
         "stepChart": {
             "D23": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Afterglow - [Full Song] Venom",
@@ -21,7 +23,8 @@
         "songTitle": "[Full Song] Venom",
         "stepChart": {
             "D23": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Afterglow - Asu no Yozora Shoukaihan",
@@ -29,7 +32,8 @@
         "songTitle": "Asu no Yozora Shoukaihan",
         "stepChart": {
             "D25": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Afterglow - COMIC PANIC!!!",
@@ -37,7 +41,8 @@
         "songTitle": "COMIC PANIC!!!",
         "stepChart": {
             "D26": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Afterglow - Hey Day Capriccio",
@@ -47,7 +52,8 @@
             "S19": "EUNHU",
             "D17": "PolyRoly",
             "D21": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Afterglow - Jamboree! Journey!",
@@ -56,7 +62,8 @@
         "stepChart": {
             "S18": "DIESEL E",
             "D24": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Afterglow - ON YOUR MARK",
@@ -66,7 +73,8 @@
             "S21": "HOONICO",
             "S24": "DIESEL E",
             "D27": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Afterglow - ROKI",
@@ -76,7 +84,8 @@
             "S19": "EUNHU",
             "D22": "EUNHU",
             "D23": "PolyRoly"
-        }
+        },
+        "chartOrder": [1, 0, 2]
     },
     {
         "file": "Afterglow - Rumbling Memory",
@@ -84,7 +93,8 @@
         "songTitle": "Rumbling Memory",
         "stepChart": {
             "D21": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Afterglow - Scarlet Sky",
@@ -93,7 +103,8 @@
         "stepChart": {
             "S20": "DIESEL E",
             "D22": "DIESEL E"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "Afterglow - Tsunagu, Soramoyou",
@@ -102,7 +113,8 @@
         "stepChart": {
             "S17": "DIESEL E",
             "D25": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Afterglow - Y.O.L.O!!!!!",
@@ -111,7 +123,8 @@
         "stepChart": {
             "S26": "DIESEL E",
             "D28": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Hello, Happy World! - [Full Song] 1, 2 Fanclub",
@@ -119,7 +132,8 @@
         "songTitle": "[Full Song] 1, 2 Fanclub",
         "stepChart": {
             "D21": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Hello, Happy World! - Alien Alien",
@@ -128,7 +142,8 @@
         "stepChart": {
             "S16": "PolyRoly",
             "D20": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Hello, Happy World! - Egao no Orchestra!",
@@ -136,7 +151,8 @@
         "songTitle": "Egao no Orchestra!",
         "stepChart": {
             "D24": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Hello, Happy World! - Egao Sing a Song",
@@ -145,7 +161,8 @@
         "stepChart": {
             "S16": "PolyRoly",
             "D21": "2BELLO"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Hello, Happy World! - GO! GO! MANIAC",
@@ -154,7 +171,8 @@
         "stepChart": {
             "S25": "DIESEL E",
             "D27": "DIESEL E"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "Hello, Happy World! - Goka! Gokai! Phantom Thief!",
@@ -163,7 +181,8 @@
         "stepChart": {
             "S23": "DIESEL E",
             "D26": "DIESEL E"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "Hello, Happy World! - Hareyaka Sukoyaka Pikarinrin♪",
@@ -172,7 +191,8 @@
         "stepChart": {
             "S14": "MANWOL",
             "D16": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Hello, Happy World! - Kimi ga Inakucha!",
@@ -181,7 +201,8 @@
         "stepChart": {
             "D19": "EUNHU",
             "D23": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Hello, Happy World! - Omoide Illumination",
@@ -189,7 +210,8 @@
         "songTitle": "Omoide Illumination",
         "stepChart": {
             "D22": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Hello, Happy World! - Sekai Nobbinobi Treasure!",
@@ -198,7 +220,8 @@
         "stepChart": {
             "S17": "DIESEL E",
             "D26": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Hello, Happy World! - Smile x Smile = Hyper Smile Power!",
@@ -206,7 +229,8 @@
         "songTitle": "Smile x Smile = Hyper Smile Power!",
         "stepChart": {
             "D23": "PolyRoly"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Hello, Happy World! - Sparkling☆You Festival!",
@@ -215,7 +239,8 @@
         "stepChart": {
             "D15": "PolyRoly",
             "D18": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Hello, Happy World! x Shirakami Fubuki - Bon Appetit S",
@@ -224,7 +249,8 @@
         "stepChart": {
             "S18": "PolyRoly",
             "D20": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Kasumi x Ran x Aya x Yukina x Kokoro - [Short Cut] Ohmori Icchou! Garupa Pico",
@@ -232,7 +258,8 @@
         "songTitle": "[Short Cut] Ohmori Icchou! Garupa Pico",
         "stepChart": {
             "D20": "2BELLO"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Kasumi x Ran x Aya x Yukina x Kokoro - [Short Cut] Picotto! Papitto!! GARUPA☆PICO!!!",
@@ -240,7 +267,8 @@
         "songTitle": "[Short Cut] Picotto! Papitto!! GARUPA☆PICO!!!",
         "stepChart": {
             "D26":"DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Kasumi x Ran x Aya x Yukina x Kokoro - Picotto! Papitto!! GARUPA☆PICO!!!",
@@ -248,7 +276,8 @@
         "songTitle": "Picotto! Papitto!! GARUPA☆PICO!!!",
         "stepChart": {
             "D24": "HOONICO"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Kasumi x Ran x Aya x Yukina x Kokoro - TWINKLE CIRCLE",
@@ -257,7 +286,8 @@
         "stepChart": {
             "S20": "MANWOL",
             "D23": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Kasumi x Ran x Aya x Yukina x Kokoro x Mashiro x LAYER - Pico Tarumono Fever!",
@@ -265,7 +295,8 @@
         "songTitle": "Pico Tarumono Fever!",
         "stepChart": {
             "D22": "PolyRoly"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Morfonica - [Full Song] Deep Sea Girl",
@@ -273,7 +304,8 @@
         "songTitle": "[Full Song] Deep Sea Girl",
         "stepChart": {
             "D22": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Morfonica - Bloom Bloom",
@@ -281,7 +313,8 @@
         "songTitle": "Bloom Bloom",
         "stepChart": {
             "S24": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Morfonica - Byoushin wo Kamu",
@@ -289,7 +322,8 @@
         "songTitle": "Byoushin wo Kamu",
         "stepChart": {
             "D18": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Morfonica - Daylight",
@@ -298,7 +332,8 @@
         "stepChart": {
             "S20": "DIESEL E",
             "D22": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Morfonica - Deep Sea Girl",
@@ -307,7 +342,8 @@
         "stepChart": {
             "S18": "EUNHU",
             "D20": "EUNHU"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "Morfonica - flame of hope",
@@ -315,7 +351,8 @@
         "songTitle": "flame of hope",
         "stepChart": {
             "D27": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Morfonica - fly with the night",
@@ -323,7 +360,8 @@
         "songTitle": "fly with the night",
         "stepChart": {
             "D23": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Morfonica - Sonorous",
@@ -331,7 +369,8 @@
         "songTitle": "Sonorous",
         "stepChart": {
             "D19": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Pastel Palettes - [Full Song] Adabana Necromancy",
@@ -339,7 +378,8 @@
         "songTitle": "[Full Song] Adabana Necromancy",
         "stepChart": {
             "D25": "PolyRoly"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Pastel Palettes - [Full Song] Kyu~Mai Flower",
@@ -347,7 +387,8 @@
         "songTitle": "[Full Song] Kyu~Mai Flower",
         "stepChart": {
             "D22": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Pastel Palettes - Adabana Necromancy",
@@ -355,7 +396,8 @@
         "songTitle": "Adabana Necromancy",
         "stepChart": {
             "D23": "PolyRoly"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Pastel Palettes - Happy Synthesizer",
@@ -367,7 +409,8 @@
             "S22": "DIESEL E",
             "D17": "EUNHU",
             "D20": "2BELLO"
-        }
+        },
+        "chartOrder": [0, 1, 2, 3, 4]
     },
     {
         "file": "Pastel Palettes - Luka Luka Night Fever",
@@ -377,7 +420,8 @@
             "S18": "PolyRoly",
             "D19": "PolyRoly",
             "D22": "Hypnosis"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Pastel Palettes - Mechanical Clown",
@@ -385,7 +429,8 @@
         "songTitle": "Mechanical Clown",
         "stepChart": {
             "D21": "PolyRoly"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Pastel Palettes - Mou Ichido Luminous",
@@ -395,7 +440,8 @@
             "S16": "DIESEL E",
             "D18": "DIESEL E",
             "D24": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Pastel Palettes - PasuPa Revolutions",
@@ -403,7 +449,8 @@
         "songTitle": "PasuPa Revolutions",
         "stepChart": {
             "D25": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Pastel Palettes - Tenka Toitsu A to Z",
@@ -413,7 +460,8 @@
             "D19": "2BELLO",
             "D21": "PolyRoly",
             "D24": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Pastel Palettes - Wakuwaku Meets Trip",
@@ -422,7 +470,8 @@
         "stepChart": {
             "S19": "2BELLO",
             "D17": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Pastel Palettes - Yoru ni Kakeru",
@@ -432,7 +481,8 @@
             "S17": "DIESEL E",
             "D18": "DIESEL E",
             "D22": "Happenso"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Pastel Palettes - Yura-Yura Ring-Dong-Dance",
@@ -441,7 +491,8 @@
         "stepChart": {
             "S21": "DIESEL E",
             "D23": "2BELLO"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "Pastel Palettes - Zettai Sengen ~Recital~",
@@ -450,7 +501,8 @@
         "stepChart": {
             "S21": "PolyRoly",
             "D24": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Poppin'Party - [Full Song] Niju no Niji (Double Rainbow)",
@@ -458,7 +510,8 @@
         "songTitle": "[Full Song] Niju no Niji (Double Rainbow)",
         "stepChart": {
             "D27": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Poppin'Party - B.O.F",
@@ -467,7 +520,8 @@
         "stepChart": {
             "S22": "EUNHU",
             "D23": "EUNHU"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "Poppin'Party - Christmas no Uta",
@@ -475,7 +529,8 @@
         "songTitle": "Christmas no Uta",
         "stepChart": {
             "D19": "WINTERXO"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Poppin'Party - CiRCLING",
@@ -483,7 +538,8 @@
         "songTitle": "CiRCLING",
         "stepChart": {
             "D21": "HOONICO"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Poppin'Party - Dreamers Go!",
@@ -491,7 +547,8 @@
         "songTitle": "Dreamers Go!",
         "stepChart": {
             "S22": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Poppin'Party - Hello! Wink!",
@@ -501,7 +558,8 @@
             "S20": "PolyRoly",
             "S22": "STAR_1st",
             "D23": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Poppin'Party - Initial",
@@ -511,7 +569,8 @@
             "S17": "PolyRoly",
             "S23": "STAR_1st",
             "D26": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Poppin'Party - Jumpin'",
@@ -520,7 +579,8 @@
         "stepChart": {
             "S19": "HOONICO",
             "D22": "DIESEL E"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "Poppin'Party - Kizuna Music♪",
@@ -529,7 +589,8 @@
         "stepChart": {
             "S22": "DIESEL E",
             "D24": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Poppin'Party - Light Delight",
@@ -538,7 +599,8 @@
         "stepChart": {
             "S20": "EUNHU",
             "D22": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Poppin'Party - Natsu no Don!",
@@ -546,7 +608,8 @@
         "songTitle": "Natsu no Don!",
         "stepChart": {
             "D20": "2BELLO"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Poppin'Party - On Your New Journey",
@@ -555,7 +618,8 @@
         "stepChart": {
             "S15": "DIESEL E",
             "D19": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Poppin'Party - Poppin' Shuffle",
@@ -563,7 +627,8 @@
         "songTitle": "Poppin' Shuffle",
         "stepChart": {
             "D21": "2BELLO"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Poppin'Party - Returns",
@@ -572,7 +637,8 @@
         "stepChart": {
             "S17": "DIESEL E",
             "D24": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Poppin'Party - STAR BEAT! ~Hoshi no Kodou~",
@@ -581,7 +647,8 @@
         "stepChart": {
             "S21": "STAR_1st",
             "D23": "Plutz"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Poppin'Party - Yume wo Uchinuko Shunkan ni",
@@ -589,7 +656,8 @@
         "songTitle": "Yume wo Uchinuko Shunkan ni",
         "stepChart": {
             "D28": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Poppin'Party x Yukina - Sousei no Aquarion",
@@ -597,7 +665,8 @@
         "songTitle": "Sousei no Aquarion",
         "stepChart": {
             "D19": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "RAISE A SUILEN - !NVADE SHOW!",
@@ -605,7 +674,8 @@
         "songTitle": "!NVADE SHOW!",
         "stepChart": {
             "S19": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "RAISE A SUILEN - [Full Song] R.I.O.T",
@@ -615,7 +685,8 @@
             "D23_1": "EUNHU",
             "D23_2": "Angkimoothie",
             "D23_3": "Happenso"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "RAISE A SUILEN - BRING IT ON",
@@ -624,7 +695,8 @@
         "stepChart": {
             "S22": "EUNHU",
             "D24": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "RAISE A SUILEN - Buriki no Dance",
@@ -634,7 +706,8 @@
             "S19": "PolyRoly",
             "S21": "PolyRoly",
             "D23": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "RAISE A SUILEN - DAYBREAK FRONTLINE",
@@ -643,7 +716,8 @@
         "stepChart": {
             "S18": "PolyRoly",
             "D19": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "RAISE A SUILEN - Domination to world",
@@ -651,7 +725,8 @@
         "songTitle": "Domination to world",
         "stepChart": {
             "D25": "PolyRoly"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "RAISE A SUILEN - EXPOSE 'Burn out!!!'",
@@ -660,7 +735,8 @@
         "stepChart": {
             "S23": "DIESEL E",
             "D25": "DIESEL E"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "RAISE A SUILEN - Gekidou",
@@ -668,7 +744,8 @@
         "songTitle": "Gekidou",
         "stepChart": {
             "D26": "Angkimoothie"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "RAISE A SUILEN - Hitori no Yoru",
@@ -677,7 +754,8 @@
         "stepChart": {
             "S15": "PolyRoly",
             "D16": "PolyRoly"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "RAISE A SUILEN - Outsider Rodeo",
@@ -686,7 +764,8 @@
         "stepChart": {
             "S20": "PolyRoly",
             "D22": "PolyRoly"
-        }
+        },
+        "chartOrder": [1, 0]
     },
     {
         "file": "RAISE A SUILEN - R.I.O.T",
@@ -695,7 +774,8 @@
         "stepChart": {
             "S15": "DIESEL E",
             "D20": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "RAISE A SUILEN - UNSTOPPABLE",
@@ -705,7 +785,8 @@
             "S18": "PolyRoly",
             "D20": "HOONICO",
             "D22": "Happenso"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Roselia - [Full Song] FIRE BIRD",
@@ -713,7 +794,8 @@
         "songTitle": "[Full Song] FIRE BIRD",
         "stepChart": {
             "D24": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - [Full Song] Ringing Bloom",
@@ -721,7 +803,8 @@
         "songTitle": "[Full Song] Ringing Bloom",
         "stepChart": {
             "D29": "Plutz"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - [Full Song] Sing Alive",
@@ -729,7 +812,8 @@
         "songTitle": "[Full Song] Sing Alive",
         "stepChart": {
             "D28": "Plutz"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - BLACK SHOUT",
@@ -737,7 +821,8 @@
         "songTitle": "BLACK SHOUT",
         "stepChart": {
             "D24": "Plutz"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - Blessing Chord",
@@ -746,7 +831,8 @@
         "stepChart": {
             "S17": "PolyRoly",
             "D21": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Roselia - BRAVE JEWEL",
@@ -754,7 +840,8 @@
         "songTitle": "BRAVE JEWEL",
         "stepChart": {
             "D20": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - Charles",
@@ -763,7 +850,8 @@
         "stepChart": {
             "S16": "PolyRoly",
             "D21": "Happenso"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Roselia - FIRE BIRD",
@@ -773,7 +861,8 @@
             "S20": "EUNHU",
             "D21": "MANWOL",
             "D22": "EUNHU"
-        }
+        },
+        "chartOrder": [2, 0, 1]
     },
     {
         "file": "Roselia - Hidamari Rhodonite",
@@ -783,7 +872,8 @@
             "S20": "DIESEL E",
             "D17": "DIESEL E",
             "D21": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1, 2]
     },
     {
         "file": "Roselia - KING",
@@ -791,7 +881,8 @@
         "songTitle": "KING",
         "stepChart": {
             "D24": "PolyRoly"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - LOUDER",
@@ -800,7 +891,8 @@
         "stepChart": {
             "S25": "DIESEL E",
             "D27": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     },
     {
         "file": "Roselia - Neo-Aspect",
@@ -808,7 +900,8 @@
         "songTitle": "Neo-Aspect",
         "stepChart": {
             "D25": "DIESEL E"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - Our Path",
@@ -816,7 +909,8 @@
         "songTitle": "Our Path",
         "stepChart": {
             "D20": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - Re birth day",
@@ -827,7 +921,8 @@
             "S23": "EUNHU",
             "D23": "EUNHU",
             "D25": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1, 3, 2]
     },
     {
         "file": "Roselia - Ringing Bloom",
@@ -838,7 +933,8 @@
             "D24": "HOONICO",
             "D25": "Plutz",
             "D26": "EUNHU"
-        }
+        },
+        "chartOrder": [0, 1, 2, 3]
     },
     {
         "file": "Roselia - Shangri La",
@@ -846,7 +942,8 @@
         "songTitle": "Shangri La",
         "stepChart": {
             "D20": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - Sister's Noise",
@@ -854,7 +951,8 @@
         "songTitle": "Sister's Noise",
         "stepChart": {
             "D23": "EUNHU"
-        }
+        },
+        "chartOrder": [0]
     },
     {
         "file": "Roselia - Six trillion years and overnight story",
@@ -864,7 +962,8 @@
             "S21": "EUNHU",
             "D23": "EUNHU",
             "D24": "2BELLO"
-        }
+        },
+        "chartOrder": [1, 0, 2]
     },
     {
         "file": "Roselia - Yakusoku",
@@ -873,6 +972,7 @@
         "stepChart": {
             "S19": "HOONICO",
             "D18": "DIESEL E"
-        }
+        },
+        "chartOrder": [0, 1]
     }
 ]
