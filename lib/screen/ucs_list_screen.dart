@@ -69,6 +69,17 @@ class _UCSListScreen extends State<UCSListScreen> {
           var songTitle = songListData[index]['songTitle'];
           var stepCharts = songListData[index]['stepChart'].keys.toList();
           var chartOrder = songListData[index]['chartOrder'];
+          var chartSuffix = 0;
+
+          var sscUrl =
+              "https://player.qwertycvb.site/#scrollSpeed=4#SSC=$songTitle#Folder=/ssc/$file/#ChartNum=";
+          try {
+            chartSuffix = songListData[index]['chartSuffix'];
+            if (chartSuffix > 0) {
+              sscUrl =
+                  "https://player.qwertycvb.site/#scrollSpeed=4#SSC=$chartSuffix#Folder=/ssc/$chartSuffix/#ChartNum=";
+            }
+          } catch (e) {}
 
           if (songTitle
                   .toLowerCase()
@@ -101,8 +112,7 @@ class _UCSListScreen extends State<UCSListScreen> {
                   itemCount: stepCharts.length,
                   itemBuilder: (BuildContext context, int i) {
                     return InkWell(
-                      onLongPress: () => launch(
-                          "https://player.qwertycvb.site/#scrollSpeed=4#SSC=$songTitle#Folder=/ssc/$file/#ChartNum=${chartOrder[i]}"),
+                      onLongPress: () => launch("$sscUrl${chartOrder[i]}"),
                       child: Container(
                         margin:
                             const EdgeInsets.fromLTRB(10.0, 10.0, 10.0, 0.0),

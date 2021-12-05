@@ -230,7 +230,8 @@
         "stepChart": {
             "D23": "PolyRoly"
         },
-        "chartOrder": [0]
+        "chartOrder": [0],
+        "chartSuffix": 1
     },
     {
         "file": "Hello, Happy World! - Sparkling☆You Festival!",
@@ -268,7 +269,8 @@
         "stepChart": {
             "D26":"DIESEL E"
         },
-        "chartOrder": [0]
+        "chartOrder": [0],
+        "chartSuffix": 2
     },
     {
         "file": "Kasumi x Ran x Aya x Yukina x Kokoro - Picotto! Papitto!! GARUPA☆PICO!!!",
@@ -648,7 +650,8 @@
             "S21": "STAR_1st",
             "D23": "Plutz"
         },
-        "chartOrder": [0, 1]
+        "chartOrder": [0, 1],
+        "chartSuffix": 3
     },
     {
         "file": "Poppin'Party - Yume wo Uchinuko Shunkan ni",
