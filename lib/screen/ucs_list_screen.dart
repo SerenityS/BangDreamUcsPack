@@ -108,6 +108,7 @@ class _UCSListScreen extends State<UCSListScreen> {
               ),
               children: [
                 StaggeredGridView.countBuilder(
+                  physics: const NeverScrollableScrollPhysics(),
                   shrinkWrap: true,
                   itemCount: stepCharts.length,
                   itemBuilder: (BuildContext context, int i) {
