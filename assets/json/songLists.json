@@ -73,7 +73,9 @@
         "songArtist": "Afterglow",
         "songTitle": "ROKI",
         "stepChart": {
-            "D21": "EUNHU"
+            "S19": "EUNHU",
+            "D22": "EUNHU",
+            "D23": "PolyRoly"
         }
     },
     {
@@ -612,7 +614,7 @@
         "stepChart": {
             "D23_1": "EUNHU",
             "D23_2": "Angkimoothie",
-            "D23_3": "Plutz"
+            "D23_3": "Happenso"
         }
     },
     {
@@ -760,7 +762,7 @@
         "songTitle": "Charles",
         "stepChart": {
             "S16": "PolyRoly",
-            "D21": "HappenSo"
+            "D21": "Happenso"
         }
     },
     {
