@@ -115,18 +115,17 @@ class _UCSListScreen extends State<UCSListScreen> {
                     return InkWell(
                       onLongPress: () => launch("$sscUrl${chartOrder[i]}"),
                       child: Container(
-                        margin:
-                            const EdgeInsets.fromLTRB(10.0, 10.0, 10.0, 0.0),
+                        margin: const EdgeInsets.fromLTRB(10.0, 5.0, 10.0, 0.0),
                         child: Column(
                           children: [
                             Image(
                               image: AssetImage(
                                   'assets/level/${stepCharts[i]}.png'),
-                              width: 40,
-                              height: 40,
+                              width: 70,
+                              height: 70,
                               fit: BoxFit.cover,
                             ),
-                            const SizedBox(height: 10),
+                            const SizedBox(height: 5),
                             Text(
                               "${songListData[index]['stepChart'][stepCharts[i]]}",
                               style: const TextStyle(
